@@ -1,0 +1,6 @@
+                <form name="pobranie" id="form-popup">
+                    <input type="email" placeholder="Adres email" name="email" id="popup-email"/>
+                    <p id="message"></p>
+                    <input id="przycisk-pobierz" type="submit" value="pobierz" onClick=""/>
+                    <a id="pobierz-informator" href="">Kliknij, aby pobrać informator</a>
+                </form>
